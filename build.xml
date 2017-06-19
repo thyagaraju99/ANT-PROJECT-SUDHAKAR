@@ -13,7 +13,7 @@ Goals :
  Note : Clean up the previous build content files as the first step in the build process.
 -->
 
-<project name="javademo" default="runtests">
+<project name="javademo" default="package">
 
 <property file="build.properties"/>
 <property name="appversion" value="2.0"/>
