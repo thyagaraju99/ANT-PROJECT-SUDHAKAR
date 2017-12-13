@@ -1,7 +1,9 @@
 <!--
 
 Goals :
-
+ 
+ for eclipse test
+ 
  Compile java code and generate class files.
  Bundle the class files into a Jar file
  Copy web files into a build folder
