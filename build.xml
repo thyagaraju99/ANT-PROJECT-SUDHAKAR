@@ -10,6 +10,7 @@ Goals :
  Package the application
  Run the test cases
  
+ FOR TESTING -------------
  
  Note : All the intermediate build output will be under the build folder 
  Note : Clean up the previous build content files as the first step in the build process.
